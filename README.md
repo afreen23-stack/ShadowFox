@@ -22,3 +22,33 @@ A short explanation of the plot
 Python code
 Output screenshot
 Description of the graph
+
+Exploratory Data Analysis – Shadowfox Dataset (Intermediate Level)
+
+This project performs an in-depth exploratory data analysis (EDA) on the Shadowfox (Intermediate level) Excel dataset. It includes data cleaning, visualization, and statistical summaries to better understand the structure and distribution of the data.
+
+Key Steps in EDA -
+Loading the dataset
+
+Cleaning unnamed or redundant columns
+
+Checking null values
+
+Generating descriptive statistics
+
+Visualizing:
+
+Correlation heatmap
+
+Histograms for distribution
+
+Boxplots for outliers
+
+Technologies Used - 
+Python
+
+pandas
+
+seaborn
+
+matplotlib
